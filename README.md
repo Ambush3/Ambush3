@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Angular and Vue**
 
-- 🤝 I’m looking for help with **Open Source Projects**
+- 🤝 I’m looking to help with **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.aaronbush.dev](https://www.aaronbush.dev)
 
