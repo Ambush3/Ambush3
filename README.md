@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron Bush</h1>
+<h1 align="center">Hello, I'm Aaron Bush</h1>
 
 - 🔭 I’m currently working on **Pokemon Pokedex API**
 
