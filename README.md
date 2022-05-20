@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Pokemon Pokedex API**
 
-- 🌱 I’m currently learning **Angular and Vue**
+- 🌱 I’m currently learning **NPM and Node.js**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
