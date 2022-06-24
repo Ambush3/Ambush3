@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Pokemon Pokedex API**
+- 🔭 I’m currently working on **Squizz Sign Up Page - Backend**
 
 - 🌱 I’m currently learning **NPM and Node.js**
 
