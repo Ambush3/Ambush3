@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Squizz Sign Up Page - Backend**
 
-- 🌱 I’m currently learning **NPM and Node.js**
+- 🌱 I’m currently learning **mongos**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
