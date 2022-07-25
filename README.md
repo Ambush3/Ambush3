@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Squizz Sign Up Page - Backend**
+- 🔭 I’m currently working on **Squizz Image Upload**
 
 - 🌱 I’m currently learning **Mongo**
 
