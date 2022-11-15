@@ -1,14 +1,14 @@
 <h1 align="center"> 👋 Hello, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Squizz Image Upload**
+- 🔭 I’m currently working on **Squizz Pricing Page**
 
-- 🌱 I’m currently learning **Mongo**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.aaronbush.dev](https://www.aaronbush.dev)
+- 👨‍💻 My portfolio is available at [https://www.aaronbush.dev](https://www.aaronbush.dev)
 
-- 📝 I regularly write articles on [https://aaron-bush.hashnode.dev/](https://aaron-bush.hashnode.dev/)
+- 📝 I blog at [https://aaron-bush.hashnode.dev/](https://aaron-bush.hashnode.dev/)
 
 - 📫 How to reach me **aaronbush3@gmail.com**
 
