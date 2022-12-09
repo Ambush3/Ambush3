@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Adding a Hexo blog to Squizz marketing site**
+- 🔭 I’m currently working on **Squizz Cordova/Android App for TV's and Phones**
 
 - 🌱 I’m currently learning **Angular**
 
