@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Squizz Cordova/Android App for TV's and Phones**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
