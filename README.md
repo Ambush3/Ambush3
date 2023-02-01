@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Squizz Cordova/Android App for TV's and Phones**
+- 🔭 I’m currently working on **Converting our Admin Page over to Vue**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
