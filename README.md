@@ -12,7 +12,10 @@
 
 - 📫 How to reach me **aaronbush3@gmail.com**
 
-![image](https://www.codewars.com/users/Ambush3/badges/large)
+![image](https://www.codewars.com/users/Ambush3/badges/large)     
+
+
+[![LeetCode user ambush333](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fambush333&logo=leetcode&logoColor=yellow)](https://leetcode.com/ambush333/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
