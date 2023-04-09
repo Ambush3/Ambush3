@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Converting our Admin Page over to Vue**
+- 🔭 I’m currently working on **Gratitude Journal - being able to reset password/forget password functionality**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
