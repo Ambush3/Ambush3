@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Gratitude Journal - reset password/forget password functionality**
+- 🔭 I’m currently working on **Gratitude Journal**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
