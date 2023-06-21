@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **Gratitude Journal**
+- 🔭 I’m currently working on **A Real Time Chat Application using TypeScript, React, Redis, and Tailwind**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
