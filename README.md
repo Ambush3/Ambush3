@@ -1,11 +1,5 @@
 <h1 align="center"> Hi, I'm Aaron Bush</h1>
 
-- 🔭 I’m currently working on **A Real Time Chat Application using TypeScript, React, Redis, and Tailwind**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 🤝 I’m looking to help with **Open Source Projects**
-
 - 👨‍💻 My portfolio is available at [https://www.aaronbush.dev](https://www.aaronbush.dev)
 
 - 📝 I blog at [https://aaron-bush.hashnode.dev/](https://aaron-bush.hashnode.dev/)
